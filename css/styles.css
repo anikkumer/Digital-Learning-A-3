@@ -1,3 +1,10 @@
 body{
     font-family: 'Oxygen', sans-serif;
 }
+
+.card{
+    margin-right: 6px;
+}
+.fa-star,.fa-star-half-stroke {
+    color: rgba(238, 173, 11, 0.991);
+}
